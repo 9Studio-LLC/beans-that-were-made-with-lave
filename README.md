@@ -1,2 +1,2 @@
-# beans-that-were-made-with-lave
+# Bean Tycoon 2 [BETA]
 bean
